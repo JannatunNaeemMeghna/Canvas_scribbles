@@ -1,0 +1,14 @@
+.header h1 {
+    font-size: 36px;
+    font-family: cambria;
+    color: #b384b0;
+    text-align: center;
+    padding-top: 48px;
+}
+.header h2 {
+    font-size: 12px;
+    font-family: cambria;
+    color: #b384b0;
+    text-align: center;
+    padding: 10px;
+}
